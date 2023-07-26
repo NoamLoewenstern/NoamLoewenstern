@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Finding a new position as a Full Stack Engineer in **Israel** ![][IsraelFlag] [Cantact me](#contact)
 
-- Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
+- Please find me on [LinkedIn](https://www.linkedin.com/in/noaml/) for a more detailed description of my full work experience, education and certification.
 <hr />
 
 ## A bit about me
@@ -36,8 +36,9 @@ In the overview below you will find my most recent work experience: -->
 <section>
 <h2 id="contact">📫 Contact me</h2>
 <p>
-    <a href="https://linkedin.com/in/noamlo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:noamloewenstern@gmail.com"><img src="https://img.shields.io/badge/noamloewenstern@gmail.com-blue?style=style=flat-square&logo=Gmail&logoColor=white&link=mailto:noamloewenstern@gmail.com" /></a>
+    <!-- <a href="https://linkedin.com/in/noamlo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5&logo=linkedin&logoColor=white" /></a> -->
+    <a href="https://linkedin.com/in/noamlo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:noamloewenstern@gmail.com"><img src="https://img.shields.io/badge/noamloewenstern@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:noamloewenstern@gmail.com" /></a>
 </p>
 </section>
 
