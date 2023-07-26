@@ -65,6 +65,8 @@ In the overview below you will find my most recent work experience: -->
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
   <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="XState" src="https://img.shields.io/static/v1?style=flat-square&message=XState&color=2C3E50&logo=XState&logoColor=FFFFFF&label=" />
+  <img alt="Recoil" src="https://img.shields.io/static/v1?style=flat-square&message=Recoil&color=3578E5&logo=Recoil&logoColor=FFFFFF&label=" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
@@ -98,6 +100,7 @@ In the overview below you will find my most recent work experience: -->
   <img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" />
   <!-- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" /> -->
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white" />
   <!-- <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white" /> -->
     <h4><b>Malware Forensics  😍</b></h4>
@@ -107,6 +110,7 @@ In the overview below you will find my most recent work experience: -->
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%232E7EEA?style=flat-square" />
   <img alt="Snort" src="https://img.shields.io/badge/Snort-a35a1f?style=flat-square" />
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-7303fc?style=flat-square" />
+  <!-- <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-7303fc?style=flat-square" /> -->
 
   </div>
 </section>
@@ -153,6 +157,12 @@ In the overview below you will find my most recent work experience: -->
       <td><img alt="Issues" src="https://img.shields.io/github/issues/NoamLoewenstern/Sms2Email?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://github.com/NoamLoewenstern/Sms2Email">Repo</a></td>
     </tr>
+    <!-- <tr>
+      <td>🔗 <a href="https://github.com/NoamLoewenstern/RamiLevy-BrowserExtension"><b>React Native</b></a></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NoamLoewenstern/RamiLevy-BrowserExtension?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://chrome.google.com/webstore/detail/rami-levy-online-helper/oodalkhhnfadhjmjdlngpaiicmpimppg">Chrome Extension</a></td>
+    </tr> -->
+    <!-- Shvushon -->
     <!-- <tr>
       <td>🔗 <a href="https://github.com/NoamLoewenstern/RamiLevy-BrowserExtension"><b>React Native</b></a></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/NoamLoewenstern/RamiLevy-BrowserExtension?style=flat-square&labelColor=343b41"/></td>
