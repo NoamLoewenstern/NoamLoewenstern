@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... Finding a new position as a Full Stack Engineer in **Israel** ![][IsraelFlag] [Cantact me](#contact)
+- 🔭 I’m currently working on ... Finding a new position as a Full Stack Engineer in **Israel** ![][IsraelFlag] [Contact me](#contact)
 
 - Please find me on [LinkedIn](https://www.linkedin.com/in/noaml/) for a more detailed description of my full work experience, education and certification.
 <hr />
