@@ -2,20 +2,6 @@
 
 ## Hi there 👋
 
-<!--
-**NoamLoewenstern/NoamLoewenstern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 I’m currently working on ... Finding a new position as a Full Stack Engineer in **Israel** ![][IsraelFlag] [Contact me](#contact)
 
 - Please find me on [LinkedIn](https://www.linkedin.com/in/noaml/) for a more detailed description of my full work experience, education and certification.
@@ -30,13 +16,10 @@ Here are some ideas to get you started:
 
 <!-- ### Work Experience
 
-In the overview below you will find my most recent work experience: -->
-
 <!-- Contact Me -->
 <section>
 <h2 id="contact">📫 Contact me</h2>
 <p>
-    <!-- <a href="https://linkedin.com/in/noamlo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5&logo=linkedin&logoColor=white" /></a> -->
     <a href="https://linkedin.com/in/noamlo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:noamloewenstern@gmail.com"><img src="https://img.shields.io/badge/noamloewenstern@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:noamloewenstern@gmail.com" /></a>
 </p>
@@ -151,6 +134,11 @@ In the overview below you will find my most recent work experience: -->
       <td>🔗 <a href="https://github.com/NoamLoewenstern/RamiLevy-BrowserExtension"><b>Rami Levy Browser Extension</b></a></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/NoamLoewenstern/RamiLevy-BrowserExtension?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://chrome.google.com/webstore/detail/rami-levy-online-helper/oodalkhhnfadhjmjdlngpaiicmpimppg">Chrome Extension</a></td>
+    </tr>
+    <tr>
+      <td>🔗 <a href="https://github.com/NoamLoewenstern/websites-fixer-chrome-extension"><b>Website Fixer Chrome Extension</b></a></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NoamLoewenstern/websites-fixer-chrome-extension?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
     </tr>
     <tr>
       <td>🔗 <a href="https://github.com/NoamLoewenstern/Sms2Email"><b>Sms2Email Flutter Mobile App</b></a></td>
