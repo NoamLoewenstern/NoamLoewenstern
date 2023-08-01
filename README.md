@@ -27,7 +27,7 @@
 
 <hr />
 <section>
-<h2>Tech I've Developed with over the years...</h2>
+<h2>Tech I've developed with over the years...</h2>
 <div>
 <h4>(By topic, and some also by proficiency level in each sub-topic)</h4>
 <br/>
