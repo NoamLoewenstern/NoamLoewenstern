@@ -1,8 +1,12 @@
-![](/assets/github-header-image.png)
+<center><img src="./assets/github-header-image.png" /></center>
+<center>@</center>
+<center><a href="https://www.linkedin.com/company/talon-cyber-security/"><img alt="Talon" src="./assets/company-logo.svg" /></a></center>
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... Finding a new position as a Full Stack Engineer in **Israel** ![][IsraelFlag] [Contact me](#contact)
+<!-- - 🔭 I’m currently working on ... Finding a new position as a Full Stack Engineer in **Israel** ![][IsraelFlag] [Contact me](#contact) -->
+
+- Taking part in reshaping the _#cybersecurity_ landscape as a Full Stack Software Engineer @ [Talon Cyber Security](https://www.linkedin.com/company/talon-cyber-security/)
 
 - Please find me on [LinkedIn](https://www.linkedin.com/in/noamlo/) for a more detailed description of my full work experience, education and certification.
 <hr />
